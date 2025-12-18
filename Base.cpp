@@ -106,7 +106,7 @@ int main() {
     }
 
     system("cls");
-    printf("GAME OVER\nFinal Score: %d\n", score);
+    printf("GAME OVER\nFinal Score: %d\nMade by UlfOrden\nWont lie did use a little bit of ChatGPT", score);
     system("pause");
     return 0;
 }
